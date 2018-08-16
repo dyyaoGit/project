@@ -11,6 +11,7 @@
 </script>
 
 <style>
+  @import '../static/iconfont/iconfont.css';
   * {
     padding: 0;
     margin: 0;
