@@ -1,0 +1,25 @@
+{
+  "0": {
+    "tid": "3704517",
+    "hname": "\u5317\u4eac\u56fd\u5b89",
+    "aname": "\u5927\u8fde\u4e00\u65b9",
+    "hpic": "http:\/\/cdn.leidata.com\/img\/team\/4177.png",
+    "apic": "http:\/\/cdn.leidata.com\/img\/team\/256658.png",
+    "leaguezh": "\u4e2d\u8d85",
+    "starttime": "1534246500",
+    "sort": "1891",
+    "start": "19:35"
+  },
+  "1": {
+    "tid": "3672692",
+    "hname": "\u5927\u962a\u6a31\u82b1",
+    "aname": "\u6e05\u6c34\u9f13\u52a8",
+    "hpic": "http:\/\/cdn.leidata.com\/img\/team\/4692.png",
+    "apic": "http:\/\/cdn.leidata.com\/img\/team\/4426.png",
+    "leaguezh": "\u65e5\u804c\u8054",
+    "starttime": "1534327200",
+    "sort": "1892",
+    "start": "18:00"
+  },
+  "total": "435"
+}
